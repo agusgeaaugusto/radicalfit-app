@@ -17,8 +17,18 @@
       <h1>Radical•Fit</h1>
       <p>15 días — Nutrición + Entrenamiento</p>
     </div>
-    <button id="resetBtn" class="ghost">Reiniciar</button>
+    <button id="resetBtn" class="ghost small">Reiniciar</button>
   </header>
+
+  <section class="hero">
+    <div class="hero-body">
+      <h2>Tu sprint de 15 días</h2>
+      <p>Plan claro. Comidas con horario y ejercicios por bloque. Marcá tu avance y mirá tu progreso.</p>
+      <div class="hero-actions">
+        <button id="resetPinBtn" class="danger">Reiniciar estadísticas (PIN)</button>
+      </div>
+    </div>
+  </section>
 
   <main>
     <section class="progress-card">
@@ -53,19 +63,21 @@
     <section id="tab-info" class="tab-panel">
       <h2>Advertencia</h2>
       <p>Este plan es intenso. No apto para diabéticos, hipertensos o personas con problemas renales/cardiacos sin seguimiento médico.</p>
-      <h2>Cómo instalar</h2>
-      <ol>
-        <li>Subí esta carpeta a GitHub Pages.</li>
-        <li>Abrí la web en tu celular y elegí “Agregar a inicio”.</li>
-        <li>¡Listo! Tendrás el ícono y funcionará offline básico.</li>
-      </ol>
-      <p class="small">Hecho con ♥ para José.</p>
+      <h2>Recomendaciones</h2>
+      <ul class="bullets">
+        <li>2.5–3 L de agua al día.</li>
+        <li>7–8 horas de sueño.</li>
+        <li>Si te mareás o te sentís mal, bajá la intensidad.</li>
+      </ul>
     </section>
   </main>
 
-  <footer class="app-footer">
-    <button id="scrollTop" class="primary">↑ Subir</button>
-  </footer>
+  <!-- Bottom Task Bar -->
+  <nav class="tabbar">
+    <button class="tabbar-btn active" data-tab="plan">📋<span>Plan</span></button>
+    <button class="tabbar-btn" data-tab="progreso">📈<span>Progreso</span></button>
+    <button class="tabbar-btn" data-tab="info">ℹ️<span>Info</span></button>
+  </nav>
 
   <script src="app.js"></script>
 </body>
