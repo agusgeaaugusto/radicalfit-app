@@ -1,0 +1,797 @@
+[
+  {
+    "dia": 1,
+    "fase": "Detox",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "2 claras + té verde",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pollo hervido + ensalada verde",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 1 clara",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado al vapor + brócoli",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio suave",
+        "detalle": "10' trote o cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "Circuito (x3)",
+        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "img": "ex-circuito.svg"
+      },
+      {
+        "titulo": "Cierre",
+        "detalle": "15' caminata rápida",
+        "img": "ex-caminata.svg"
+      }
+    ]
+  },
+  {
+    "dia": 2,
+    "fase": "Detox",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "2 claras + té verde",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pollo hervido + ensalada verde",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 1 clara",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado al vapor + brócoli",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio suave",
+        "detalle": "10' trote o cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "Circuito (x3)",
+        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "img": "ex-circuito.svg"
+      },
+      {
+        "titulo": "Cierre",
+        "detalle": "15' caminata rápida",
+        "img": "ex-caminata.svg"
+      }
+    ]
+  },
+  {
+    "dia": 3,
+    "fase": "Detox",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "2 claras + té verde",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pollo hervido + ensalada verde",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 1 clara",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado al vapor + brócoli",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio suave",
+        "detalle": "10' trote o cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "Circuito (x3)",
+        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "img": "ex-circuito.svg"
+      },
+      {
+        "titulo": "Cierre",
+        "detalle": "15' caminata rápida",
+        "img": "ex-caminata.svg"
+      }
+    ]
+  },
+  {
+    "dia": 4,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 5,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 6,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 7,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 8,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 9,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 10,
+    "fase": "Déficit intenso",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Omelette 4 claras + café",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "10 almendras",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Yogur griego + chía",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Atún + espinaca",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Entrada en calor",
+        "detalle": "5' cuerda",
+        "img": "ex-cardio.svg"
+      },
+      {
+        "titulo": "HIIT 4 rondas",
+        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "img": "ex-hiit.svg"
+      },
+      {
+        "titulo": "Estiramientos",
+        "detalle": "5–10' movilidad y respiración",
+        "img": "ex-fuerza.svg"
+      }
+    ]
+  },
+  {
+    "dia": 11,
+    "fase": "Definición",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Carne magra + ensalada + huevo duro",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 5 nueces",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado/Pollo + verduras al vapor",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio",
+        "detalle": "20' caminata o trote",
+        "img": "ex-caminata.svg"
+      },
+      {
+        "titulo": "Fuerza/Core (x3)",
+        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "img": "ex-fuerza.svg"
+      },
+      {
+        "titulo": "Cardio corto",
+        "detalle": "10' cuerda o bicicleta",
+        "img": "ex-cardio.svg"
+      }
+    ]
+  },
+  {
+    "dia": 12,
+    "fase": "Definición",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Carne magra + ensalada + huevo duro",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 5 nueces",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado/Pollo + verduras al vapor",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio",
+        "detalle": "20' caminata o trote",
+        "img": "ex-caminata.svg"
+      },
+      {
+        "titulo": "Fuerza/Core (x3)",
+        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "img": "ex-fuerza.svg"
+      },
+      {
+        "titulo": "Cardio corto",
+        "detalle": "10' cuerda o bicicleta",
+        "img": "ex-cardio.svg"
+      }
+    ]
+  },
+  {
+    "dia": 13,
+    "fase": "Definición",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Carne magra + ensalada + huevo duro",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 5 nueces",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado/Pollo + verduras al vapor",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio",
+        "detalle": "20' caminata o trote",
+        "img": "ex-caminata.svg"
+      },
+      {
+        "titulo": "Fuerza/Core (x3)",
+        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "img": "ex-fuerza.svg"
+      },
+      {
+        "titulo": "Cardio corto",
+        "detalle": "10' cuerda o bicicleta",
+        "img": "ex-cardio.svg"
+      }
+    ]
+  },
+  {
+    "dia": 14,
+    "fase": "Definición",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Carne magra + ensalada + huevo duro",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 5 nueces",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado/Pollo + verduras al vapor",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio",
+        "detalle": "20' caminata o trote",
+        "img": "ex-caminata.svg"
+      },
+      {
+        "titulo": "Fuerza/Core (x3)",
+        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "img": "ex-fuerza.svg"
+      },
+      {
+        "titulo": "Cardio corto",
+        "detalle": "10' cuerda o bicicleta",
+        "img": "ex-cardio.svg"
+      }
+    ]
+  },
+  {
+    "dia": 15,
+    "fase": "Definición",
+    "comidas": [
+      {
+        "titulo": "Desayuno",
+        "hora": "07:00",
+        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "img": "dish-desayuno.svg"
+      },
+      {
+        "titulo": "Media mañana",
+        "hora": "10:00",
+        "detalle": "Manzana verde",
+        "img": "dish-media.svg"
+      },
+      {
+        "titulo": "Almuerzo",
+        "hora": "13:00",
+        "detalle": "Carne magra + ensalada + huevo duro",
+        "img": "dish-almuerzo.svg"
+      },
+      {
+        "titulo": "Merienda",
+        "hora": "17:00",
+        "detalle": "Té verde + 5 nueces",
+        "img": "dish-merienda.svg"
+      },
+      {
+        "titulo": "Cena",
+        "hora": "20:00",
+        "detalle": "Pescado/Pollo + verduras al vapor",
+        "img": "dish-cena.svg"
+      }
+    ],
+    "ejercicios": [
+      {
+        "titulo": "Cardio",
+        "detalle": "20' caminata o trote",
+        "img": "ex-caminata.svg"
+      },
+      {
+        "titulo": "Fuerza/Core (x3)",
+        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "img": "ex-fuerza.svg"
+      },
+      {
+        "titulo": "Cardio corto",
+        "detalle": "10' cuerda o bicicleta",
+        "img": "ex-cardio.svg"
+      }
+    ]
+  }
+]
