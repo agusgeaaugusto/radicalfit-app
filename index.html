@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Radical•Fit — Plan 15 días</title>
+  <meta name="theme-color" content="#0f172a"/>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <img src="assets/logo.svg" alt="RadicalFit" class="logo">
+    <div class="titles">
+      <h1>Radical•Fit</h1>
+      <p>15 días — Nutrición + Entrenamiento</p>
+    </div>
+    <button id="resetBtn" class="ghost">Reiniciar</button>
+  </header>
+
+  <main>
+    <section class="progress-card">
+      <div class="progress-row">
+        <div>
+          <strong id="progressPercent">0%</strong>
+          <span>Completado</span>
+        </div>
+        <progress id="progressBar" value="0" max="15"></progress>
+        <div>
+          <strong id="daysDone">0</strong><span>/15 días</span>
+        </div>
+      </div>
+      <p class="tip">🎯 Consejo: hidratate 2.5–3 L/día • 7–8 h de sueño • si te mareás, aflojá.</p>
+    </section>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="plan">Plan</button>
+      <button class="tab" data-tab="progreso">Progreso</button>
+      <button class="tab" data-tab="info">Info</button>
+    </nav>
+
+    <section id="tab-plan" class="tab-panel active">
+      <div id="daysContainer" class="days"></div>
+    </section>
+
+    <section id="tab-progreso" class="tab-panel">
+      <h2>Tu avance</h2>
+      <ul id="progressList" class="list"></ul>
+    </section>
+
+    <section id="tab-info" class="tab-panel">
+      <h2>Advertencia</h2>
+      <p>Este plan es intenso. No apto para diabéticos, hipertensos o personas con problemas renales/cardiacos sin seguimiento médico.</p>
+      <h2>Cómo instalar</h2>
+      <ol>
+        <li>Subí esta carpeta a GitHub Pages.</li>
+        <li>Abrí la web en tu celular y elegí “Agregar a inicio”.</li>
+        <li>¡Listo! Tendrás el ícono y funcionará offline básico.</li>
+      </ol>
+      <p class="small">Hecho con ♥ para José.</p>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <button id="scrollTop" class="primary">↑ Subir</button>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

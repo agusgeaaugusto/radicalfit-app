@@ -1,0 +1,392 @@
+[
+  {
+    "dia": 1,
+    "fase": "Detox",
+    "comidas": [
+      "2 claras + té verde",
+      "Manzana verde",
+      "Pollo hervido + ensalada verde",
+      "Té verde + 1 clara",
+      "Pescado + brócoli"
+    ],
+    "imagenes": [
+      "dish-3.svg",
+      "dish-1.svg",
+      "dish-2.svg"
+    ],
+    "ejercicios": [
+      "10' trote",
+      "Circuito: 20 sentadillas, 15 flexiones, 20 abs, 15 burpees, 1' plancha (x3)",
+      "15' caminata rápida"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-2.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 2,
+    "fase": "Detox",
+    "comidas": [
+      "Claras + té",
+      "Manzana verde",
+      "Pollo + ensalada",
+      "Yogur natural",
+      "Pescado + brócoli"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "10' cuerda",
+      "Circuito x3 (igual día 1)",
+      "15' caminata"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 3,
+    "fase": "Detox",
+    "comidas": [
+      "Claras + té",
+      "Manzana verde",
+      "Pollo + ensalada",
+      "Yogur natural",
+      "Pescado + brócoli"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "10' cuerda",
+      "Circuito x3 (igual día 1)",
+      "15' caminata"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 4,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 5,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 6,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 7,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 8,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 9,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 10,
+    "fase": "Déficit intenso",
+    "comidas": [
+      "Omelette 4 claras + café",
+      "10 almendras",
+      "Pechuga + ensalada (aceite oliva)",
+      "Yogur griego + chía",
+      "Atún + espinaca"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "5' cuerda",
+      "HIIT 4 rondas: jacks, climbers, burpees, sent. salto, plancha touch",
+      "Estiramientos"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 11,
+    "fase": "Definición",
+    "comidas": [
+      "Batido proteína o 4 claras + avena 30g",
+      "Manzana verde",
+      "Carne magra + ensalada + huevo duro",
+      "Té verde + 5 nueces",
+      "Pescado/Pollo + verduras al vapor"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "20' caminata/trote",
+      "3x: 15 lagartijas, 20 zancadas, 15 abs oblicuos, 1' plancha",
+      "10' cuerda/bici"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 12,
+    "fase": "Definición",
+    "comidas": [
+      "Batido proteína o 4 claras + avena 30g",
+      "Manzana verde",
+      "Carne magra + ensalada + huevo duro",
+      "Té verde + 5 nueces",
+      "Pescado/Pollo + verduras al vapor"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "20' caminata/trote",
+      "3x: 15 lagartijas, 20 zancadas, 15 abs oblicuos, 1' plancha",
+      "10' cuerda/bici"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 13,
+    "fase": "Definición",
+    "comidas": [
+      "Batido proteína o 4 claras + avena 30g",
+      "Manzana verde",
+      "Carne magra + ensalada + huevo duro",
+      "Té verde + 5 nueces",
+      "Pescado/Pollo + verduras al vapor"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "20' caminata/trote",
+      "3x: 15 lagartijas, 20 zancadas, 15 abs oblicuos, 1' plancha",
+      "10' cuerda/bici"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 14,
+    "fase": "Definición",
+    "comidas": [
+      "Batido proteína o 4 claras + avena 30g",
+      "Manzana verde",
+      "Carne magra + ensalada + huevo duro",
+      "Té verde + 5 nueces",
+      "Pescado/Pollo + verduras al vapor"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "20' caminata/trote",
+      "3x: 15 lagartijas, 20 zancadas, 15 abs oblicuos, 1' plancha",
+      "10' cuerda/bici"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  },
+  {
+    "dia": 15,
+    "fase": "Definición",
+    "comidas": [
+      "Batido proteína o 4 claras + avena 30g",
+      "Manzana verde",
+      "Carne magra + ensalada + huevo duro",
+      "Té verde + 5 nueces",
+      "Pescado/Pollo + verduras al vapor"
+    ],
+    "imagenes": [
+      "dish-1.svg",
+      "dish-2.svg",
+      "dish-4.svg"
+    ],
+    "ejercicios": [
+      "20' caminata/trote",
+      "3x: 15 lagartijas, 20 zancadas, 15 abs oblicuos, 1' plancha",
+      "10' cuerda/bici"
+    ],
+    "img_ej": [
+      "ex-1.svg",
+      "ex-4.svg",
+      "ex-3.svg"
+    ]
+  }
+]
