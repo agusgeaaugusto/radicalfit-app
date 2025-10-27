@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Radical•Fit — Plan 15 días</title>
+  <title>Radical•Fit — 15 días</title>
   <meta name="theme-color" content="#0f172a"/>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
@@ -12,37 +12,25 @@
 </head>
 <body>
   <header class="app-header">
-    <img src="assets/logo.svg" alt="RadicalFit" class="logo">
-    <div class="titles">
-      <h1>Radical•Fit</h1>
-      <p>15 días — Nutrición + Entrenamiento</p>
-    </div>
-    <button id="resetBtn" class="ghost small">Reiniciar</button>
+    <img src="assets/logo.svg" class="logo" alt="RadicalFit">
+    <div class="titles"><h1>Radical•Fit</h1><p>Plan de 15 días — Comidas + Entreno</p></div>
+    <button id="resetPinBtn" class="danger">Reiniciar</button>
   </header>
 
   <section class="hero">
     <div class="hero-body">
-      <h2>Tu sprint de 15 días</h2>
-      <p>Plan claro. Comidas con horario y ejercicios por bloque. Marcá tu avance y mirá tu progreso.</p>
-      <div class="hero-actions">
-        <button id="resetPinBtn" class="danger">Reiniciar estadísticas (PIN)</button>
-      </div>
+      <h2>Tu sprint saludable</h2>
+      <p>Comidas con horario y ejercicios por bloque. Marcá tu avance diario y mirá el progreso.</p>
     </div>
   </section>
 
   <main>
     <section class="progress-card">
       <div class="progress-row">
-        <div>
-          <strong id="progressPercent">0%</strong>
-          <span>Completado</span>
-        </div>
+        <div><strong id="progressPercent">0%</strong><span>Completado</span></div>
         <progress id="progressBar" value="0" max="15"></progress>
-        <div>
-          <strong id="daysDone">0</strong><span>/15 días</span>
-        </div>
+        <div><strong id="daysDone">0</strong><span>/15 días</span></div>
       </div>
-      <p class="tip">🎯 Consejo: hidratate 2.5–3 L/día • 7–8 h de sueño • si te mareás, aflojá.</p>
     </section>
 
     <nav class="tabs" role="tablist">
@@ -61,24 +49,21 @@
     </section>
 
     <section id="tab-info" class="tab-panel">
-      <h2>Advertencia</h2>
-      <p>Este plan es intenso. No apto para diabéticos, hipertensos o personas con problemas renales/cardiacos sin seguimiento médico.</p>
       <h2>Recomendaciones</h2>
       <ul class="bullets">
-        <li>2.5–3 L de agua al día.</li>
-        <li>7–8 horas de sueño.</li>
-        <li>Si te mareás o te sentís mal, bajá la intensidad.</li>
+        <li>Hidratación: 2.5–3 L/día.</li>
+        <li>Descanso: 7–8 h por noche.</li>
+        <li>Si te mareás, baja la intensidad.</li>
       </ul>
     </section>
   </main>
 
-  <!-- Bottom Task Bar -->
   <nav class="tabbar">
     <button class="tabbar-btn active" data-tab="plan">📋<span>Plan</span></button>
     <button class="tabbar-btn" data-tab="progreso">📈<span>Progreso</span></button>
     <button class="tabbar-btn" data-tab="info">ℹ️<span>Info</span></button>
   </nav>
 
-  <script src="app.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>

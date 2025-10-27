@@ -37,17 +37,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio suave",
-        "detalle": "10' trote o cuerda",
+        "detalle": "10’ trote o cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "Circuito (x3)",
-        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "detalle": "20 sentadillas · 15 flexiones · 20 abs · 15 burpees · 1’ plancha",
         "img": "ex-circuito.svg"
       },
       {
         "titulo": "Cierre",
-        "detalle": "15' caminata rápida",
+        "detalle": "15’ caminata rápida",
         "img": "ex-caminata.svg"
       }
     ]
@@ -90,17 +90,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio suave",
-        "detalle": "10' trote o cuerda",
+        "detalle": "10’ trote o cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "Circuito (x3)",
-        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "detalle": "20 sentadillas · 15 flexiones · 20 abs · 15 burpees · 1’ plancha",
         "img": "ex-circuito.svg"
       },
       {
         "titulo": "Cierre",
-        "detalle": "15' caminata rápida",
+        "detalle": "15’ caminata rápida",
         "img": "ex-caminata.svg"
       }
     ]
@@ -143,17 +143,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio suave",
-        "detalle": "10' trote o cuerda",
+        "detalle": "10’ trote o cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "Circuito (x3)",
-        "detalle": "20 sentadillas • 15 flexiones • 20 abs • 15 burpees • 1' plancha",
+        "detalle": "20 sentadillas · 15 flexiones · 20 abs · 15 burpees · 1’ plancha",
         "img": "ex-circuito.svg"
       },
       {
         "titulo": "Cierre",
-        "detalle": "15' caminata rápida",
+        "detalle": "15’ caminata rápida",
         "img": "ex-caminata.svg"
       }
     ]
@@ -177,7 +177,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -196,17 +196,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -230,7 +230,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -249,17 +249,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -283,7 +283,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -302,17 +302,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -336,7 +336,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -355,17 +355,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -389,7 +389,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -408,17 +408,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -442,7 +442,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -461,17 +461,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -495,7 +495,7 @@
       {
         "titulo": "Almuerzo",
         "hora": "13:00",
-        "detalle": "Pechuga + ensalada (aceite de oliva)",
+        "detalle": "Pechuga + ensalada (aceite oliva)",
         "img": "dish-almuerzo.svg"
       },
       {
@@ -514,17 +514,17 @@
     "ejercicios": [
       {
         "titulo": "Entrada en calor",
-        "detalle": "5' cuerda",
+        "detalle": "5’ cuerda",
         "img": "ex-cardio.svg"
       },
       {
         "titulo": "HIIT 4 rondas",
-        "detalle": "30s jacks • 30s climbers • 30s burpees • 30s sent. salto • 30s plancha touch",
+        "detalle": "30s jacks · 30s climbers · 30s burpees · 30s sentadilla salto · 30s plancha touch",
         "img": "ex-hiit.svg"
       },
       {
         "titulo": "Estiramientos",
-        "detalle": "5–10' movilidad y respiración",
+        "detalle": "5–10’ movilidad y respiración",
         "img": "ex-fuerza.svg"
       }
     ]
@@ -536,7 +536,7 @@
       {
         "titulo": "Desayuno",
         "hora": "07:00",
-        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "detalle": "Batido proteína / 4 claras + 30g avena",
         "img": "dish-desayuno.svg"
       },
       {
@@ -567,17 +567,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio",
-        "detalle": "20' caminata o trote",
+        "detalle": "20’ caminata o trote",
         "img": "ex-caminata.svg"
       },
       {
         "titulo": "Fuerza/Core (x3)",
-        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "detalle": "15 lagartijas · 20 zancadas · 15 abs oblicuos · 1’ plancha",
         "img": "ex-fuerza.svg"
       },
       {
         "titulo": "Cardio corto",
-        "detalle": "10' cuerda o bicicleta",
+        "detalle": "10’ cuerda o bicicleta",
         "img": "ex-cardio.svg"
       }
     ]
@@ -589,7 +589,7 @@
       {
         "titulo": "Desayuno",
         "hora": "07:00",
-        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "detalle": "Batido proteína / 4 claras + 30g avena",
         "img": "dish-desayuno.svg"
       },
       {
@@ -620,17 +620,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio",
-        "detalle": "20' caminata o trote",
+        "detalle": "20’ caminata o trote",
         "img": "ex-caminata.svg"
       },
       {
         "titulo": "Fuerza/Core (x3)",
-        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "detalle": "15 lagartijas · 20 zancadas · 15 abs oblicuos · 1’ plancha",
         "img": "ex-fuerza.svg"
       },
       {
         "titulo": "Cardio corto",
-        "detalle": "10' cuerda o bicicleta",
+        "detalle": "10’ cuerda o bicicleta",
         "img": "ex-cardio.svg"
       }
     ]
@@ -642,7 +642,7 @@
       {
         "titulo": "Desayuno",
         "hora": "07:00",
-        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "detalle": "Batido proteína / 4 claras + 30g avena",
         "img": "dish-desayuno.svg"
       },
       {
@@ -673,17 +673,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio",
-        "detalle": "20' caminata o trote",
+        "detalle": "20’ caminata o trote",
         "img": "ex-caminata.svg"
       },
       {
         "titulo": "Fuerza/Core (x3)",
-        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "detalle": "15 lagartijas · 20 zancadas · 15 abs oblicuos · 1’ plancha",
         "img": "ex-fuerza.svg"
       },
       {
         "titulo": "Cardio corto",
-        "detalle": "10' cuerda o bicicleta",
+        "detalle": "10’ cuerda o bicicleta",
         "img": "ex-cardio.svg"
       }
     ]
@@ -695,7 +695,7 @@
       {
         "titulo": "Desayuno",
         "hora": "07:00",
-        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "detalle": "Batido proteína / 4 claras + 30g avena",
         "img": "dish-desayuno.svg"
       },
       {
@@ -726,17 +726,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio",
-        "detalle": "20' caminata o trote",
+        "detalle": "20’ caminata o trote",
         "img": "ex-caminata.svg"
       },
       {
         "titulo": "Fuerza/Core (x3)",
-        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "detalle": "15 lagartijas · 20 zancadas · 15 abs oblicuos · 1’ plancha",
         "img": "ex-fuerza.svg"
       },
       {
         "titulo": "Cardio corto",
-        "detalle": "10' cuerda o bicicleta",
+        "detalle": "10’ cuerda o bicicleta",
         "img": "ex-cardio.svg"
       }
     ]
@@ -748,7 +748,7 @@
       {
         "titulo": "Desayuno",
         "hora": "07:00",
-        "detalle": "Batido prot. / 4 claras + 30g avena",
+        "detalle": "Batido proteína / 4 claras + 30g avena",
         "img": "dish-desayuno.svg"
       },
       {
@@ -779,17 +779,17 @@
     "ejercicios": [
       {
         "titulo": "Cardio",
-        "detalle": "20' caminata o trote",
+        "detalle": "20’ caminata o trote",
         "img": "ex-caminata.svg"
       },
       {
         "titulo": "Fuerza/Core (x3)",
-        "detalle": "15 lagartijas • 20 zancadas • 15 abs oblicuos • 1' plancha",
+        "detalle": "15 lagartijas · 20 zancadas · 15 abs oblicuos · 1’ plancha",
         "img": "ex-fuerza.svg"
       },
       {
         "titulo": "Cardio corto",
-        "detalle": "10' cuerda o bicicleta",
+        "detalle": "10’ cuerda o bicicleta",
         "img": "ex-cardio.svg"
       }
     ]
